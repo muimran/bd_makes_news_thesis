@@ -27,7 +27,7 @@ let previousStepIndex2 = null;
 function createMap2() {
   map2 = new mapboxgl.Map({
     container: 'map2', // Ensure this matches the container ID in your HTML for the second map
-    style: 'mapbox://styles/imrandata/cmclqf6ov000a01sbh31acuj7',
+    style: 'mapbox://styles/imrandata/cmclqqbml003x01qxe5k29ztw',
     center: initialMapState.center,
     zoom: initialMapState.zoom,
     projection: 'mercator'
